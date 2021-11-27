@@ -26,7 +26,7 @@ while True:
                 print("-", end="")
                 number_unclown_letter += 1
         print()
-        if word.find(letter) == -1:
+        if word.find(letter) == -1: 
             count_looz -= 1
         if count_looz == 0:
             print("вы проиграли")
