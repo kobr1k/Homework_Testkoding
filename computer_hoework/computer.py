@@ -1,0 +1,5 @@
+
+class Person:
+    kompuxter = "ryzen"
+    
+ 
